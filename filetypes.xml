@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="final_label" type="PLAIN_TEXT" />
+      <mapping pattern="功能" type="PLAIN_TEXT" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern="agree" type="PLAIN_TEXT" />
+      <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping ext="tflite" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
