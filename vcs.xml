@@ -926,6 +926,10 @@
           <option name="url" value="https://gitee.com/zhangningning/Dagger2Demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/LJYcoder/DevRing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Work" />
