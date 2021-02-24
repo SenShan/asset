@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="设计模式" type="PLAIN_TEXT" />
       <mapping pattern="性能优化" type="PLAIN_TEXT" />
       <mapping pattern="final_label" type="PLAIN_TEXT" />
       <mapping pattern="功能" type="PLAIN_TEXT" />
