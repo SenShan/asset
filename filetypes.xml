@@ -10,6 +10,7 @@
       <mapping pattern="Android应用启动流程" type="PLAIN_TEXT" />
       <mapping pattern="agree" type="PLAIN_TEXT" />
       <mapping pattern="binder跨进程通讯" type="PLAIN_TEXT" />
+      <mapping pattern="Java基础" type="PLAIN_TEXT" />
       <mapping pattern="功能" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="tflite" type="PLAIN_TEXT" />
