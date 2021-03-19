@@ -16,6 +16,7 @@
       <mapping pattern="Java反射" type="PLAIN_TEXT" />
       <mapping pattern="binder跨进程通讯" type="PLAIN_TEXT" />
       <mapping pattern="Java线程" type="PLAIN_TEXT" />
+      <mapping pattern="学习方向" type="PLAIN_TEXT" />
       <mapping pattern="Java基础" type="PLAIN_TEXT" />
       <mapping pattern="Java类加载" type="PLAIN_TEXT" />
       <mapping pattern="Java序列化" type="PLAIN_TEXT" />
