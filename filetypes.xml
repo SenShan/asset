@@ -11,6 +11,7 @@
       <mapping pattern="final_label" type="PLAIN_TEXT" />
       <mapping pattern="性能优化" type="PLAIN_TEXT" />
       <mapping pattern="Java虚拟机" type="PLAIN_TEXT" />
+      <mapping pattern="问题大全" type="PLAIN_TEXT" />
       <mapping pattern="Android应用启动流程" type="PLAIN_TEXT" />
       <mapping pattern="Java注解" type="PLAIN_TEXT" />
       <mapping pattern="Java反射" type="PLAIN_TEXT" />
