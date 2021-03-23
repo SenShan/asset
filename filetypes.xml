@@ -8,6 +8,7 @@
       <mapping pattern="设计模式" type="PLAIN_TEXT" />
       <mapping pattern="Java集合" type="PLAIN_TEXT" />
       <mapping pattern="Binder跨进程通讯" type="PLAIN_TEXT" />
+      <mapping pattern="性能优化问题" type="PLAIN_TEXT" />
       <mapping pattern="final_label" type="PLAIN_TEXT" />
       <mapping pattern="性能优化" type="PLAIN_TEXT" />
       <mapping pattern="Java虚拟机" type="PLAIN_TEXT" />
