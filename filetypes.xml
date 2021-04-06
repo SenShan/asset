@@ -28,6 +28,7 @@
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="设计模式" type="PLAIN_TEXT" />
       <mapping pattern="Java集合" type="PLAIN_TEXT" />
+      <mapping pattern="集合问题" type="PLAIN_TEXT" />
       <mapping pattern="Android View绘制" type="PLAIN_TEXT" />
       <mapping pattern="性能优化问题" type="PLAIN_TEXT" />
       <mapping pattern="Window窗口结构" type="PLAIN_TEXT" />
