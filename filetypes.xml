@@ -9,6 +9,7 @@
       <mapping pattern="RxJava" type="PLAIN_TEXT" />
       <mapping pattern="Java序列化" type="PLAIN_TEXT" />
       <mapping pattern="Android四大组件启动" type="PLAIN_TEXT" />
+      <mapping pattern="缓存" type="PLAIN_TEXT" />
       <mapping pattern="问题大全" type="PLAIN_TEXT" />
       <mapping pattern="Java线程" type="PLAIN_TEXT" />
       <mapping pattern="热修复" type="PLAIN_TEXT" />
