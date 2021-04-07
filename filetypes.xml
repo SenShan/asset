@@ -19,6 +19,7 @@
       <mapping pattern="Java反射" type="PLAIN_TEXT" />
       <mapping pattern="学习方向" type="PLAIN_TEXT" />
       <mapping pattern="final_label" type="PLAIN_TEXT" />
+      <mapping pattern="Android打包流程" type="PLAIN_TEXT" />
       <mapping pattern="HashMap相关问答" type="PLAIN_TEXT" />
       <mapping pattern="Java基础" type="PLAIN_TEXT" />
       <mapping pattern="注解与反射" type="PLAIN_TEXT" />
