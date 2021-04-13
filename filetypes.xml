@@ -27,6 +27,7 @@
       <mapping pattern="事件分发" type="PLAIN_TEXT" />
       <mapping pattern="Java注解" type="PLAIN_TEXT" />
       <mapping pattern="Android布局加载" type="PLAIN_TEXT" />
+      <mapping pattern="串口通讯" type="PLAIN_TEXT" />
       <mapping pattern="Binder跨进程通讯" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="设计模式" type="PLAIN_TEXT" />
