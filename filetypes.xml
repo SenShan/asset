@@ -23,6 +23,7 @@
       <mapping pattern="HashMap相关问答" type="PLAIN_TEXT" />
       <mapping pattern="Java基础" type="PLAIN_TEXT" />
       <mapping pattern="注解与反射" type="PLAIN_TEXT" />
+      <mapping pattern="简介" type="PLAIN_TEXT" />
       <mapping pattern="Android缓存原理" type="PLAIN_TEXT" />
       <mapping pattern="事件分发" type="PLAIN_TEXT" />
       <mapping pattern="Java注解" type="PLAIN_TEXT" />
