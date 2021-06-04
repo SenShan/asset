@@ -4,6 +4,18 @@
       <map>
         <entry key="..\:/Develop/SourceApp/app/src/main/res/layout/activity_dagger.xml" value="0.14945652173913043" />
         <entry key="..\:/JetPack/LiveData/app/src/main/res/layout/activity_main.xml" value="0.14447463768115942" />
+        <entry key="..\:/JetPack/LiveData/app/src/main/res/layout/activity_score_card.xml" value="0.14447463768115942" />
+        <entry key="..\:/JetPack/LiveData/app/src/main/res/layout/content_profile.xml" value="0.14447463768115942" />
+        <entry key="..\:/JetPack/LiveData/app/src/main/res/layout/content_score_card.xml" value="0.14447463768115942" />
+        <entry key="..\:/JetPack/LiveData/app/src/main/res/layout/fragment_project_details.xml" value="0.14447463768115942" />
+        <entry key="..\:/JetPack/LiveData/app/src/main/res/layout/fragment_project_list.xml" value="0.14447463768115942" />
+        <entry key="..\:/JetPack/LiveData/app/src/main/res/layout/fragment_score_card.xml" value="0.14447463768115942" />
+        <entry key="..\:/JetPack/LiveData/app/src/main/res/layout/list_item_call_action.xml" value="0.14447463768115942" />
+        <entry key="..\:/JetPack/LiveData/app/src/main/res/layout/profile_activity.xml" value="0.1" />
+        <entry key="..\:/JetPack/LiveData/app/src/main/res/layout/profile_fragment.xml" value="0.14447463768115942" />
+        <entry key="..\:/JetPack/LiveData/app/src/main/res/layout/project_list_item.xml" value="0.14447463768115942" />
+        <entry key="..\:/JetPack/LiveData/app/src/main/res/layout/transform_activity.xml" value="0.14447463768115942" />
+        <entry key="..\:/JetPack/LiveData/app/src/main/res/layout/transform_fragment.xml" value="0.14447463768115942" />
         <entry key="..\:/JetPack/MvvmApp/app/src/main/res/layout/fragment_project_details.xml" value="0.12454710144927536" />
         <entry key="..\:/JetPack/MvvmPart/app/src/main/res/layout/activity_main.xml" value="0.13722826086956522" />
         <entry key="..\:/JetPack/MvvmPart/app/src/main/res/layout/fragment_project_details.xml" value="0.13722826086956522" />
