@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Develop/SourceApp/app/src/main/res/layout/activity_dagger.xml" value="0.14945652173913043" />
+        <entry key="..\:/Develop/SourceApp/app/src/main/res/layout/activity_room.xml" value="0.4466666666666667" />
         <entry key="..\:/JetPack/Camera/HdrViewfinder/Application/src/main/res/layout/main.xml" value="0.1" />
         <entry key="..\:/JetPack/Camera/HdrViewfinder/Application/src/main/res/menu/main.xml" value="0.165625" />
         <entry key="..\:/JetPack/Camera/ModelView/app/src/main/res/layout/main_activity.xml" value="0.1" />
@@ -33,13 +34,14 @@
         <entry key="..\:/JetPack/VRMR/app/src/main/res/layout/mainactivity_info_item.xml" value="0.1408514492753623" />
         <entry key="..\:/Work/MMirror/app/src/main/res/drawable/bac_camera_frame.xml" value="0.1" />
         <entry key="..\:/Work/MMirror/app/src/main/res/drawable/selector_screen_saver_entrance.xml" value="0.1" />
+        <entry key="..\:/Work/MMirror/app/src/main/res/drawable/setting_bg.xml" value="0.1" />
         <entry key="..\:/Work/MMirror/app/src/main/res/layout/activity_album.xml" value="0.10635964912280702" />
         <entry key="..\:/Work/MMirror/app/src/main/res/layout/activity_camera.xml" value="0.1402116402116402" />
         <entry key="..\:/Work/MMirror/app/src/main/res/layout/activity_ha.xml" value="0.10827850877192982" />
         <entry key="..\:/Work/MMirror/app/src/main/res/layout/activity_home.xml" value="0.11595394736842106" />
         <entry key="..\:/Work/MMirror/app/src/main/res/layout/activity_images_picker.xml" value="0.12698412698412698" />
         <entry key="..\:/Work/MMirror/app/src/main/res/layout/activity_init.xml" value="0.1" />
-        <entry key="..\:/Work/MMirror/app/src/main/res/layout/activity_setting.xml" value="0.12698412698412698" />
+        <entry key="..\:/Work/MMirror/app/src/main/res/layout/activity_setting.xml" value="0.1402116402116402" />
         <entry key="..\:/Work/MMirror/app/src/main/res/layout/activity_video.xml" value="0.10992324561403509" />
         <entry key="..\:/Work/MMirror/app/src/main/res/layout/dialog_screen_type.xml" value="0.11331569664902998" />
         <entry key="..\:/Work/MMirror/app/src/main/res/layout/public_voice_layout.xml" value="0.1402116402116402" />
