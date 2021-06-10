@@ -35,6 +35,21 @@
         <entry key="..\:/JetPack/MvvmPart/app/src/main/res/layout/project_list_item.xml" value="0.13722826086956522" />
         <entry key="..\:/JetPack/Room-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/JetPack/Room-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/drawable/checkbox_btn_drawable.xml" value="0.1" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/drawable/dialog_btn_bg.xml" value="0.1" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/drawable/dialog_white_bg.xml" value="0.1" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/drawable/dialog_window_bg.xml" value="0.1" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/layout/activity_annotation.xml" value="0.13768115942028986" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/layout/content_choice_excel.xml" value="0.13768115942028986" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/layout/dialog_chart.xml" value="0.13768115942028986" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/layout/item_main.xml" value="0.13768115942028986" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/layout/item_pop_calculator.xml" value="0.13768115942028986" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/layout/item_sheet.xml" value="0.13768115942028986" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/layout/item_table.xml" value="0.13768115942028986" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/layout/nav_header_choice_excel.xml" value="0.13768115942028986" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/layout/pop_base_check.xml" value="0.13768115942028986" />
+        <entry key="..\:/JetPack/SmartTable/app/src/main/res/menu/activity_choice_excel_drawer.xml" value="0.165625" />
         <entry key="..\:/JetPack/VRMR/app/src/main/res/layout/activity_main.xml" value="0.1408514492753623" />
         <entry key="..\:/JetPack/VRMR/app/src/main/res/layout/mainactivity_info_item.xml" value="0.1408514492753623" />
         <entry key="..\:/Work/MMirror/app/src/main/res/drawable/bac_camera_frame.xml" value="0.1" />
