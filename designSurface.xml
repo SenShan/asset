@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Develop/SourceApp/app/src/main/res/drawable-xhdpi/icon_sure_red.xml" value="0.1" />
         <entry key="..\:/Develop/SourceApp/app/src/main/res/layout/activity_dagger.xml" value="0.14945652173913043" />
         <entry key="..\:/Develop/SourceApp/app/src/main/res/layout/activity_room.xml" value="0.4466666666666667" />
         <entry key="..\:/Develop/SourceApp/app/src/main/res/layout/dialog_room.xml" value="0.165625" />
@@ -47,10 +48,13 @@
         <entry key="..\:/Work/MMirror/app/src/main/res/layout/dialog_screen_type.xml" value="0.11331569664902998" />
         <entry key="..\:/Work/MMirror/app/src/main/res/layout/public_voice_layout.xml" value="0.1402116402116402" />
         <entry key="..\:/Work/MMirror/app/src/main/res/layout/window_layout.xml" value="0.10827850877192982" />
+        <entry key="..\:/Work/MakeQr/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Work/Tool/app/src/main/res/layout/activity_file.xml" value="0.10743243243243243" />
         <entry key="..\:/Work/Tool/app/src/main/res/layout/activity_init.xml" value="0.10743243243243243" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/activity_home.xml" value="0.165625" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/dialog_show_edit_button.xml" value="0.1" />
+        <entry key="..\:/Work/testForRecycling/app/src/main/res/layout/activity_range.xml" value="0.1402116402116402" />
+        <entry key="..\:/Work/testForRecycling/app/src/main/res/layout/activity_ware.xml" value="0.1" />
       </map>
     </option>
   </component>
