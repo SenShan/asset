@@ -4,6 +4,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Java集合" type="PLAIN_TEXT" />
+      <mapping pattern="动画原理" type="PLAIN_TEXT" />
       <mapping pattern="Java类加载" type="PLAIN_TEXT" />
       <mapping pattern="Animation动画原理" type="PLAIN_TEXT" />
       <mapping pattern="热修复" type="PLAIN_TEXT" />
@@ -26,26 +27,26 @@
       <mapping pattern="Android View绘制" type="PLAIN_TEXT" />
       <mapping pattern="简介" type="PLAIN_TEXT" />
       <mapping pattern="设计模式" type="PLAIN_TEXT" />
-      <mapping pattern="性能优化" type="PLAIN_TEXT" />
+      <mapping pattern="性能优化问题" type="PLAIN_TEXT" />
       <mapping pattern="Window窗口结构" type="PLAIN_TEXT" />
-      <mapping pattern="ButterKnife原理" type="PLAIN_TEXT" />
+      <mapping pattern="Android缓存原理" type="PLAIN_TEXT" />
       <mapping pattern="HashMap相关问答" type="PLAIN_TEXT" />
       <mapping pattern="功能" type="PLAIN_TEXT" />
       <mapping pattern="Android应用启动流程" type="PLAIN_TEXT" />
       <mapping pattern="说明" type="PLAIN_TEXT" />
       <mapping pattern="Java线程" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping pattern="Android缓存原理" type="PLAIN_TEXT" />
-      <mapping pattern="性能优化问题" type="PLAIN_TEXT" />
+      <mapping pattern="ButterKnife原理" type="PLAIN_TEXT" />
+      <mapping pattern="性能优化" type="PLAIN_TEXT" />
       <mapping pattern="Java反射" type="PLAIN_TEXT" />
       <mapping pattern="Handler消息机制" type="PLAIN_TEXT" />
-      <mapping pattern="集合问题" type="PLAIN_TEXT" />
       <mapping pattern="注解与反射" type="PLAIN_TEXT" />
+      <mapping pattern="集合问题" type="PLAIN_TEXT" />
       <mapping pattern="Android四大组件启动" type="PLAIN_TEXT" />
       <mapping pattern="Java序列化" type="PLAIN_TEXT" />
       <mapping pattern="Java虚拟机" type="PLAIN_TEXT" />
-      <mapping pattern="内容" type="PLAIN_TEXT" />
       <mapping pattern="问题大全" type="PLAIN_TEXT" />
+      <mapping pattern="内容" type="PLAIN_TEXT" />
       <mapping pattern="Android布局加载" type="PLAIN_TEXT" />
       <mapping pattern="学习方向" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
