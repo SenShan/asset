@@ -33,6 +33,7 @@
         <entry key="..\:/JetPack/Camera/ModelView/app/src/main/res/layout/main_fragment.xml" value="0.1" />
         <entry key="..\:/JetPack/Camera/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/JetPack/Camera/MyApplication/app/src/main/res/layout/activity_item_detail.xml" value="0.12092391304347826" />
+        <entry key="..\:/JetPack/Camera/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.13179347826086957" />
         <entry key="..\:/JetPack/Camera/MyApplication/app/src/main/res/layout/fragment_item_detail.xml" value="0.14719202898550723" />
         <entry key="..\:/JetPack/Camera/MyApplication/app/src/main/res/layout/item_list_content.xml" value="0.14719202898550723" />
         <entry key="..\:/JetPack/Camera/Thing/app/src/main/res/layout/activity_main.xml" value="0.1" />
@@ -127,7 +128,7 @@
         <entry key="..\:/Work/Tool/app/src/main/res/layout/activity_init.xml" value="0.10743243243243243" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/activity_home.xml" value="0.165625" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/activity_load.xml" value="0.15808823529411764" />
-        <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/dialog_being_analy.xml" value="0.15808823529411764" />
+        <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/dialog_being_analy.xml" value="0.16176470588235295" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/dialog_data_num.xml" value="0.1" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/dialog_send_makeup.xml" value="0.165625" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/dialog_show_edit_button.xml" value="0.1" />
