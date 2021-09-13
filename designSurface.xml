@@ -139,12 +139,20 @@
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/dialog_data_num.xml" value="0.1" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/dialog_send_makeup.xml" value="0.165625" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/dialog_show_edit_button.xml" value="0.1" />
+        <entry key="..\:/Work/smallmagic/app/src/main/res/drawable/icon_optimal_bg.xml" value="0.1" />
+        <entry key="..\:/Work/smallmagic/app/src/main/res/layout/activity_charm.xml" value="0.1" />
         <entry key="..\:/Work/smallmagic/app/src/main/res/layout/activity_home.xml" value="0.496875" />
         <entry key="..\:/Work/smallmagic/app/src/main/res/layout/activity_move.xml" value="0.10865384615384616" />
+        <entry key="..\:/Work/smallmagic/app/src/main/res/layout/activity_replace.xml" value="0.1" />
+        <entry key="..\:/Work/smallmagic/app/src/main/res/layout/activity_result.xml" value="0.12371794871794872" />
         <entry key="..\:/Work/smallmagic/app/src/main/res/layout/activity_skin.xml" value="0.1" />
+        <entry key="..\:/Work/smallmagic/app/src/main/res/layout/dialog_put_down_detector.xml" value="0.1330128205128205" />
         <entry key="..\:/Work/smallmagic/app/src/main/res/layout/dialog_takeup_xf.xml" value="0.14358974358974358" />
         <entry key="..\:/Work/smallmagic/app/src/main/res/layout/dialog_will_skin.xml" value="0.1439102564102564" />
+        <entry key="..\:/Work/smallmagic/app/src/main/res/layout/item_charm_product.xml" value="0.1371794871794872" />
+        <entry key="..\:/Work/smallmagic/app/src/main/res/layout/layout_small_title.xml" value="0.12532051282051282" />
         <entry key="..\:/Work/smallmagic/app/src/main/res/layout/public_text_step.xml" value="0.11634615384615385" />
+        <entry key="..\:/Work/smallmagic/app/src/main/res/layout/public_title.xml" value="0.12756410256410255" />
         <entry key="..\:/Work/testForRecycling/app/src/main/res/layout/activity_ageing.xml" value="0.1402116402116402" />
         <entry key="..\:/Work/testForRecycling/app/src/main/res/layout/activity_init.xml" value="0.1402116402116402" />
         <entry key="..\:/Work/testForRecycling/app/src/main/res/layout/activity_range.xml" value="0.1402116402116402" />
