@@ -1007,20 +1007,8 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://192.168.103.252/witpos_MPOS/inventory.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@git.bk:zhaosenshan/magicTool.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="http://git.bk/zhaosenshan/magicTool.git" />
           <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.bk" />
-          <option name="userName" value="zhaosenshan" />
         </UrlAndUserName>
       </list>
     </option>
