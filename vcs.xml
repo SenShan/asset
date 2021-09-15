@@ -1010,6 +1010,10 @@
           <option name="url" value="http://git.bk/zhaosenshan/magicTool.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.bk" />
+          <option name="userName" value="zhaosenshan" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\JetPack" />
