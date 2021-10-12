@@ -23,10 +23,6 @@
         <entry key="..\:/Develop/SourceApp/app/src/main/res/layout/item_room.xml" value="0.165625" />
         <entry key="..\:/Develop/SourceApp/app/src/main/res/layout/v_m_fragment.xml" value="0.1421875" />
         <entry key="..\:/Develop/SourceApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.165625" />
-        <entry key="..\:/Develop/StereoView/app/src/main/res/layout/activity_image.xml" value="0.165625" />
-        <entry key="..\:/Develop/StereoView/app/src/main/res/layout/activity_login.xml" value="0.16259057971014493" />
-        <entry key="..\:/Develop/StereoView/app/src/main/res/layout/activity_main.xml" value="0.16259057971014493" />
-        <entry key="..\:/Develop/StereoView/app/src/main/res/layout/activity_setting.xml" value="0.16259057971014493" />
         <entry key="..\:/JetPack/Android Mesh/TelinkMesh/BluetoothLightDemo/src/main/res/layout/activity_add_group.xml" value="0.165625" />
         <entry key="..\:/JetPack/Android Mesh/android_demo_source_V2.3/TelinkMesh/BluetoothLightDemo/src/main/res/layout/activity_add_group.xml" value="0.14583333333333334" />
         <entry key="..\:/JetPack/BaseAdapter/library/src/main/res/drawable/brvah_sample_footer_loading_progress.xml" value="0.1" />
@@ -95,11 +91,6 @@
         <entry key="..\:/JetPack/VRMR/app/src/main/res/layout/activity_main.xml" value="0.1408514492753623" />
         <entry key="..\:/JetPack/VRMR/app/src/main/res/layout/mainactivity_info_item.xml" value="0.1408514492753623" />
         <entry key="..\:/JetPack/android-magicmirror/app/src/main/res/layout/public_work_layout.xml" value="0.1" />
-        <entry key="..\:/JetPack/smallmagic/app/src/main/res/layout/activity_result.xml" value="0.1" />
-        <entry key="..\:/JetPack/smallmagic/app/src/main/res/layout/dialog_optimal_high_low_score.xml" value="0.165625" />
-        <entry key="..\:/JetPack/smallmagic/app/src/main/res/layout/dialog_trial_use.xml" value="0.165625" />
-        <entry key="..\:/JetPack/smallmagic/app/src/main/res/layout/item_charm_product.xml" value="0.165625" />
-        <entry key="..\:/JetPack/smallmagic/app/src/main/res/layout/item_trial_product.xml" value="0.165625" />
         <entry key="..\:/Users/zhaosengshan/Downloads/BaseHelper/app/src/main/res/drawable/arrow_down.xml" value="0.1" />
         <entry key="..\:/Users/zhaosengshan/Downloads/BaseHelper/app/src/main/res/drawable/arrow_right.xml" value="0.1" />
         <entry key="..\:/Users/zhaosengshan/Downloads/BaseHelper/app/src/main/res/layout/activity_adapter_use.xml" value="0.1" />
@@ -123,15 +114,9 @@
         <entry key="..\:/Users/zhaosengshan/Downloads/Bluetooth-master/app/src/main/res/layout/layout_send.xml" value="0.165625" />
         <entry key="..\:/Users/zhaosengshan/Downloads/TreeList/app/src/main/res/layout/activity_json.xml" value="0.13451086956521738" />
         <entry key="..\:/Users/zhaosengshan/Downloads/TreeList/app/src/main/res/layout/item.xml" value="0.14719202898550723" />
-        <entry key="..\:/Work/BaseHelper/app/src/main/res/layout/item_tree_menu.xml" value="0.1" />
         <entry key="..\:/Work/Camera2/app/src/main/res/layout/camera_main_layout.xml" value="0.1598731884057971" />
         <entry key="..\:/Work/Camera2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Work/Camera2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
-        <entry key="..\:/Work/JetPack/SourceApp/app/src/main/res/layout/activity_canvas.xml" value="0.1" />
-        <entry key="..\:/Work/JetPack/SourceApp/app/src/main/res/layout/activity_databind.xml" value="0.1" />
-        <entry key="..\:/Work/JetPack/SourceApp/app/src/main/res/layout/fragment_page.xml" value="0.165625" />
-        <entry key="..\:/Work/JetPack/SourceApp/app/src/main/res/layout/item_databind_recycleview.xml" value="0.15353260869565216" />
-        <entry key="..\:/Work/KotlinView/app/src/main/res/layout/main_fragment.xml" value="0.1" />
         <entry key="..\:/Work/MMirror/app/src/main/res/drawable/bac_camera_frame.xml" value="0.1" />
         <entry key="..\:/Work/MMirror/app/src/main/res/drawable/radio_style.xml" value="0.1" />
         <entry key="..\:/Work/MMirror/app/src/main/res/drawable/selector_screen_saver_entrance.xml" value="0.1" />
@@ -153,10 +138,12 @@
         <entry key="..\:/Work/MakeQr/app/src/main/res/layout/activity_main.xml" value="0.165625" />
         <entry key="..\:/Work/MakeQr/app/src/main/res/layout/activity_zip.xml" value="0.165625" />
         <entry key="..\:/Work/Recycling/app/src/main/res/layout/activity_bottle.xml" value="0.15534420289855072" />
-        <entry key="..\:/Work/Tool/app/src/main/res/layout/activity_file.xml" value="0.13333333333333333" />
+        <entry key="..\:/Work/Recycling/app/src/main/res/layout/activity_function.xml" value="0.1" />
+        <entry key="..\:/Work/Recycling/app/src/main/res/layout/activity_train.xml" value="0.165625" />
+        <entry key="..\:/Work/Tool/app/src/main/res/layout/activity_file.xml" value="0.10743243243243243" />
         <entry key="..\:/Work/Tool/app/src/main/res/layout/activity_function.xml" value="0.1" />
         <entry key="..\:/Work/Tool/app/src/main/res/layout/activity_init.xml" value="0.10743243243243243" />
-        <entry key="..\:/Work/magicmirrorurara/app/src/main/res/drawable/progress_horizontal_1.xml" value="0.1" />
+        <entry key="..\:/Work/magicmirrorurara/app/src/main/res/drawable/progress_horizontal_1.xml" value="0.18072916666666666" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/activity_home.xml" value="0.165625" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/activity_load.xml" value="0.15808823529411764" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/dialog_being_analy.xml" value="0.3333333333333333" />
