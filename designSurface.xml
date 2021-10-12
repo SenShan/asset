@@ -117,6 +117,8 @@
         <entry key="..\:/Work/Camera2/app/src/main/res/layout/camera_main_layout.xml" value="0.1598731884057971" />
         <entry key="..\:/Work/Camera2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Work/Camera2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Work/Jetpack6/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18072916666666666" />
+        <entry key="..\:/Work/Jetpack6/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18072916666666666" />
         <entry key="..\:/Work/Jetpack6/app/src/main/res/layout/activity_lifecycle.xml" value="0.1" />
         <entry key="..\:/Work/Jetpack6/app/src/main/res/layout/activity_live_data.xml" value="0.14764492753623187" />
         <entry key="..\:/Work/Jetpack6/app/src/main/res/layout/activity_main.xml" value="0.14764492753623187" />
@@ -130,6 +132,7 @@
         <entry key="..\:/Work/Jetpack6/app/src/main/res/layout/fragment_one.xml" value="0.14764492753623187" />
         <entry key="..\:/Work/Jetpack6/app/src/main/res/layout/fragment_two.xml" value="0.14764492753623187" />
         <entry key="..\:/Work/Jetpack6/app/src/main/res/layout/item_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Work/Kotlin/app/src/main/res/layout/content_main.xml" value="0.1" />
         <entry key="..\:/Work/MMirror/app/src/main/res/drawable/bac_camera_frame.xml" value="0.1" />
         <entry key="..\:/Work/MMirror/app/src/main/res/drawable/radio_style.xml" value="0.1" />
         <entry key="..\:/Work/MMirror/app/src/main/res/drawable/selector_screen_saver_entrance.xml" value="0.1" />
