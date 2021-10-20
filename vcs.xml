@@ -1010,9 +1010,13 @@
           <option name="url" value="http://192.168.103.252/zhaosenshan/MakeQR.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.bk/witpos_MPOS/VisionStation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\JetPack" />
+    <option name="cloneParentDir" value="C:\Work" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
