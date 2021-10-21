@@ -132,6 +132,10 @@
         <entry key="..\:/Work/JetPack/SourceApp/app/src/main/res/layout/activity_databind.xml" value="0.1" />
         <entry key="..\:/Work/JetPack/SourceApp/app/src/main/res/layout/fragment_page.xml" value="0.165625" />
         <entry key="..\:/Work/JetPack/SourceApp/app/src/main/res/layout/item_databind_recycleview.xml" value="0.15353260869565216" />
+        <entry key="..\:/Work/Kotlin/app/src/main/res/drawable/bac_progress_loading.xml" value="0.18072916666666666" />
+        <entry key="..\:/Work/Kotlin/app/src/main/res/drawable/ic_bubble.xml" value="0.18072916666666666" />
+        <entry key="..\:/Work/Kotlin/app/src/main/res/drawable/progress_horizontal_1.xml" value="0.18072916666666666" />
+        <entry key="..\:/Work/Kotlin/app/src/main/res/layout/dialog_being_analy.xml" value="0.15579710144927536" />
         <entry key="..\:/Work/KotlinView/app/src/main/res/layout/main_fragment.xml" value="0.1" />
         <entry key="..\:/Work/MMirror/app/src/main/res/drawable/bac_camera_frame.xml" value="0.1" />
         <entry key="..\:/Work/MMirror/app/src/main/res/drawable/radio_style.xml" value="0.1" />
@@ -186,6 +190,7 @@
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/view_screen_use.xml" value="0.1644021739130435" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/view_screen_use_pad.xml" value="0.1644021739130435" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/view_show_video.xml" value="0.1644021739130435" />
+        <entry key="..\:/Work/magicmirrorurara/app/src/main/res/drawable/bac_progress_loading.xml" value="0.18072916666666666" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/drawable/progress_horizontal_1.xml" value="0.1" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/activity_home.xml" value="0.165625" />
         <entry key="..\:/Work/magicmirrorurara/app/src/main/res/layout/activity_load.xml" value="0.15808823529411764" />
