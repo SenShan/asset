@@ -171,6 +171,8 @@
         <entry key="..\:/Work/View/app/src/main/res/layout/kind.xml" value="0.1" />
         <entry key="..\:/Work/View/app/src/main/res/layout/title_back_view.xml" value="0.1490036231884058" />
         <entry key="..\:/Work/VisionStation/app/src/main/res-yellow/drawable/bac_blue_shap_right_radius_yellow.xml" value="0.6666666666666666" />
+        <entry key="..\:/Work/VisionStation/app/src/main/res-yellow/drawable/text_shape_needs.xml" value="0.135546875" />
+        <entry key="..\:/Work/VisionStation/app/src/main/res-yellow/drawable/text_skin_type.xml" value="0.135546875" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_calendar_range.xml" value="0.1408514492753623" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_category_detail.xml" value="0.6666666666666666" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_coupon_use.xml" value="0.1644021739130435" />
@@ -197,10 +199,12 @@
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/fragment_report.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/gif_back_view.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_category.xml" value="0.165625" />
+        <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_label.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_my.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_recommendation_my.xml" value="0.12421875" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_recommendation_normar.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_recommendation_other.xml" value="0.12421875" />
+        <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_young.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/question_kids_either_or.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/question_kids_optometry.xml" value="0.11820652173913043" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/question_kids_single_picker.xml" value="0.1" />
