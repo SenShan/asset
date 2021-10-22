@@ -161,6 +161,7 @@
         <entry key="..\:/Work/Tool/app/src/main/res/layout/activity_file.xml" value="0.13333333333333333" />
         <entry key="..\:/Work/Tool/app/src/main/res/layout/activity_function.xml" value="0.1" />
         <entry key="..\:/Work/Tool/app/src/main/res/layout/activity_init.xml" value="0.10743243243243243" />
+        <entry key="..\:/Work/View/app/src/main/res/drawable/shape_btn_next_yellow.xml" value="0.18072916666666666" />
         <entry key="..\:/Work/View/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Work/View/app/src/main/res/layout/gif_back_view.xml" value="0.1490036231884058" />
         <entry key="..\:/Work/View/app/src/main/res/layout/title_back_view.xml" value="0.1490036231884058" />
@@ -187,9 +188,12 @@
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/dialog_no_device_bind.xml" value="0.165625" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/fragment_report.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/gif_back_view.xml" value="0.1" />
+        <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_category.xml" value="0.165625" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_my.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_recommendation_normar.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_recommendation_other.xml" value="0.1" />
+        <entry key="..\:/Work/VisionStation/app/src/main/res/layout/question_kids_either_or.xml" value="0.1" />
+        <entry key="..\:/Work/VisionStation/app/src/main/res/layout/question_kids_optometry.xml" value="0.11820652173913043" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/question_kids_single_picker.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/question_single_picker_pad.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/title_back_view.xml" value="0.11927083333333334" />
