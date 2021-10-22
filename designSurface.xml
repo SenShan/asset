@@ -163,11 +163,14 @@
         <entry key="..\:/Work/Tool/app/src/main/res/layout/activity_init.xml" value="0.10743243243243243" />
         <entry key="..\:/Work/View/app/src/main/res/drawable/shape_btn_next_yellow.xml" value="0.18072916666666666" />
         <entry key="..\:/Work/View/app/src/main/res/drawable/shape_step_selected.xml" value="0.18072916666666666" />
-        <entry key="..\:/Work/View/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Work/View/app/src/main/res/drawable/text_shape_needs.xml" value="0.135546875" />
+        <entry key="..\:/Work/View/app/src/main/res/drawable/text_skin_type.xml" value="0.18072916666666666" />
+        <entry key="..\:/Work/View/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Work/View/app/src/main/res/layout/gif_back_view.xml" value="0.1490036231884058" />
         <entry key="..\:/Work/View/app/src/main/res/layout/item_label.xml" value="0.16032608695652173" />
-        <entry key="..\:/Work/View/app/src/main/res/layout/kind.xml" value="0.22" />
+        <entry key="..\:/Work/View/app/src/main/res/layout/kind.xml" value="0.1" />
         <entry key="..\:/Work/View/app/src/main/res/layout/title_back_view.xml" value="0.1490036231884058" />
+        <entry key="..\:/Work/VisionStation/app/src/main/res-yellow/drawable/bac_blue_shap_right_radius_yellow.xml" value="0.6666666666666666" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_calendar_range.xml" value="0.1408514492753623" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_category_detail.xml" value="0.6666666666666666" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_coupon_use.xml" value="0.1644021739130435" />
@@ -182,21 +185,22 @@
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_introduce.xml" value="0.1644021739130435" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_myopia_manager.xml" value="0.1644021739130435" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_product_detail.xml" value="0.1644021739130435" />
-        <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_question_paper.xml" value="0.1644021739130435" />
+        <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_question_paper.xml" value="0.12421875" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_splash.xml" value="0.1644021739130435" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_statistical_detail.xml" value="0.1644021739130435" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_update.xml" value="0.1644021739130435" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_upload_statistical.xml" value="0.1644021739130435" />
-        <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_young.xml" value="0.11820652173913043" />
+        <entry key="..\:/Work/VisionStation/app/src/main/res/layout/activity_young.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/dialog_no_device_bind.xml" value="0.165625" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/flex_box_item_text_tag.xml" value="0.165625" />
-        <entry key="..\:/Work/VisionStation/app/src/main/res/layout/fragment_category_recommendation.xml" value="0.165625" />
+        <entry key="..\:/Work/VisionStation/app/src/main/res/layout/fragment_category_recommendation.xml" value="0.12421875" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/fragment_report.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/gif_back_view.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_category.xml" value="0.165625" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_my.xml" value="0.1" />
+        <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_recommendation_my.xml" value="0.12421875" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_recommendation_normar.xml" value="0.1" />
-        <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_recommendation_other.xml" value="0.1" />
+        <entry key="..\:/Work/VisionStation/app/src/main/res/layout/item_recommendation_other.xml" value="0.12421875" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/question_kids_either_or.xml" value="0.1" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/question_kids_optometry.xml" value="0.11820652173913043" />
         <entry key="..\:/Work/VisionStation/app/src/main/res/layout/question_kids_single_picker.xml" value="0.1" />
